@@ -31,7 +31,3 @@ All commands are ran as `fostr <command>` e.g. `fostr ping`. A list of available
 
 - [@liam-p-fostr](https://www.github.com/liam-p-fostr)
 
-
-## License
-
-[ISC](LICENSE.md)
