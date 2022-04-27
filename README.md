@@ -3,6 +3,11 @@
 
 A command line utility for all things Fostr.
 
+## Requirements
+
+This tool is built to work with, and only supports, Node 16+. If you have problems running the CLI you should install the latest [Node](https://nodejs.org/) LTS version globally.
+
+You can use a tool such as [Volta](https://volta.sh) for projects that need versions of Node that are different to your globally installed version.
 
 ## Installation
 
