@@ -2,13 +2,13 @@
   "name": "@fostr/cli",
   "version": "1.1.0",
   "description": "A command line utility for all things Fostr",
-  "main": "index.js",
+  "main": "index.mjs",
   "scripts": {
     "deps:refresh": "rm -rf node_modules && rm package-lock.json && npm i"
   },
   "type": "module",
   "bin": {
-    "fostr": "./index.js"
+    "fostr": "./index.mjs"
   },
   "author": "Liam Potter <liam@fostr.io>",
   "license": "ISC",
@@ -17,6 +17,6 @@
     "commander": "9.2.0"
   },
   "volta": {
-    "node": "16.14.2"
+    "node": "16.15.0"
   }
 }
